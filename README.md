@@ -13,4 +13,4 @@ We have tested on multiple datasets. Preprocessed datasets are available at http
 
 To train and test the model, run Test_DS.py providing the dataset name to get the performance, for example:
 
-python Test_DS.py citesheer
+python Test_DS.py citeseer
